@@ -1,0 +1,30 @@
+serverless = nextjs + vercel 
+API serverless python
+use server in python
+aws lambda
+Serverless frameworks:
+1-Claudiajs-
+2-AWS Chalice
+3-Jets
+4-Architect
+5-AWS Amplify
+6-Flogo
+7-Serverless Framework
+8-Zappa
+9-Apache OpenWhisk
+9-SQLalchemy
+
+change time duration before 24 hours
+
+
+software create by lear UI
+Api Lear = serverless = AI use python
+convert jason to python (Pydantic)
+database / 
+
+
+Serverless Python SaaS
+Serverless Computing 101: AWS Lambda and the Rise of Function-as-a-Service
+Getting started building serverless SaaS architectures
+The pragmatic serverless Python developer
+Powertools for AWS Lambda - Python
